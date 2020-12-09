@@ -1,13 +1,13 @@
 {
-    "version": "1.2.7.0",
-    "description": "AWS CLI Session Manager Plugin",
-    "homepage": "https://aws.amazon.com/cli/",
-    "license": "Apache-2.0",
-    "architecture": {
-        "64bit": {
-            "url": "https://s3.amazonaws.com/session-manager-downloads/plugin/latest/windows/SessionManagerPluginSetup.exe",
-        }
-    },
-    "extract_dir": "Amazon\\SessionManagerPlugin",
-    "bin": "session-manager-plugin.exe",
+	"version": "1.2.7.0",
+	"description": "AWS CLI Session Manager Plugin",
+	"homepage": "https://aws.amazon.com/cli/",
+	"license": "Apache-2.0",
+	"architecture": {
+		"64bit": {
+			"url": "https://s3.amazonaws.com/session-manager-downloads/plugin/latest/windows/SessionManagerPluginSetup.exe"
+		}
+	},
+	"extract_dir": "Amazon\\SessionManagerPlugin",
+	"bin": "session-manager-plugin.exe"
 }
