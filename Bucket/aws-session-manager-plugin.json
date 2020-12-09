@@ -6,7 +6,7 @@
     "architecture": {
         "64bit": {
             "url": "https://s3.amazonaws.com/session-manager-downloads/plugin/latest/windows/SessionManagerPluginSetup.exe",
-            "hash": "65e1fe9760169c3de5bf760332d47e6776568e3c"
+            "hash": "ca923ce24c4e1fd0cad120e1c57fb45d57432589636480c753cc50eadd1dcebd"
             }
     },
     "extract_dir": "Amazon\\SessionManagerPlugin",
